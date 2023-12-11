@@ -3,4 +3,4 @@
 * Дана исходная веб-страница без стилевого оформления.
 * Задача: оформить веб-страницу со стилевым оформлением согласно задания.
 <p align="center">
-<img src="https://github.com/NataKuptsova/HTML_Learn_BSU_4/blob/master/Task2.jpg" width="100%"></p>
+<img src="https://github.com/fufaev/CSS_lesson-2/blob/main/Example1.jpg" width="100%"></p>
