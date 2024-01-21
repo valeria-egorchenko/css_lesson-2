@@ -1,12 +1,9 @@
 body{    
-font-family: Verdana;
-color: #06389e;
-background-color: #e6e6e6;
+    font-family: Verdana;
+    color: #06389e;
+    background-color: #e6e6e6;
+    margin-top: 0;
 }
-h2, h3, ul, ol, .content{
-background: #ffffff;
-}
-
 h2, h3 {
     text-align:center;
     text-transform:uppercase;
@@ -15,6 +12,7 @@ h2, h3 {
 a{
     color: black;
     text-decoration: none;
+    
 }
 h2{
     margin-top: 0;
@@ -44,24 +42,27 @@ ul,.content {
     letter-spacing: 1px;
     line-height:1.5em;
     
-    }
-    .content{
-    padding:10px 15px 10px 15px;
+    
+}
+.content{
+    padding:10px 15px 10px 15px ;
     text-align:justify;
     border-top: 2px solid gray;
     border-bottom: 2px solid gray;        
-    }
-    content a{
-        text-decoration: none;
-        color: #494d56;
-        font-weight:bolder;   
-             
-    }
-    ol{
-        font-size: 0.8em;
-    }
-    ol li a{
-        color: gray;
-    }
-    
+}
+content a{
+    text-decoration: none;
+    color: #494d56;
+    font-weight:bolder;           
+}
+ol{
+    font-size: 0.8em;
+}
+ol li a{
+    color: gray;
+    border-bottom: 2px solid gray;
+}
+table {       
+    padding: solid #fff;
+}
     
